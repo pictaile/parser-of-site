@@ -1,5 +1,5 @@
 {
-    "name": "pictaile/parser-url",
+    "name": "pictaile/parser-of-site",
     "description": "test task for parse url using composer",
     "type": "project",
     "authors": [
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "ParserUrl": "src/"
+            "parserOfSite": "src/"
         }
     }
 }
