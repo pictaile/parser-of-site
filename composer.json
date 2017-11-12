@@ -3,6 +3,7 @@
     "description": "test task for parse url using composer",
     "type": "library",
     "version": "dev-master",
+    "license": "MIT",
     "authors": [
         {
             "name": "Kostya Ochotnik",
@@ -16,6 +17,11 @@
     "autoload": {
         "psr-0": {
             "parserOfSite": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "6.0-dev"
         }
     }
 }
