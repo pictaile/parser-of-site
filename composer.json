@@ -1,7 +1,7 @@
 {
     "name": "pictaile/parser-of-site",
     "description": "test task for parse url using composer",
-    "type": "project",
+    "type": "library",
     "authors": [
         {
             "name": "Kostya Ochotnik",
